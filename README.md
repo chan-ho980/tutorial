@@ -1,2 +1,2 @@
-# project3.
+# verilog practice.
  16bit arcitecture
